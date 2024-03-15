@@ -1,1 +1,1 @@
-Hi I'm ZtarWorld69. I joined Github on January 4, 2022. I like coding and modding and playing Angry Birds, Cut The Rope, Mario Party, Subway Surfers, Super Mario 3D World, Plants vs. Zombies, and more games. I mostly know LUA coding and DAT editing.
+Hi I'm ZtarWorld69. I joined Github on January 4, 2022. I like coding and modding and playing Angry Birds, Cut The Rope, Mario Party, Subway Surfers, Super Mario 3D World, Plants vs. Zombies, and more games. I mostly know LUA coding and DAT editing. I also created the Jon Maddock joke.
